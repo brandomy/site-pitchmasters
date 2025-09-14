@@ -1,0 +1,4 @@
+baseURL = "https://pitchmasters.example/"
+title = "Pitchmasters"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true

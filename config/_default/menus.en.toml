@@ -1,0 +1,8 @@
+[[main]]
+  name = "Home"
+  url = "/en/"
+  weight = 1
+[[main]]
+  name = "Welcome"
+  url = "/en/welcome/"
+  weight = 2
